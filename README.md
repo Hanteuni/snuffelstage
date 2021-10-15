@@ -1,7 +1,7 @@
 # snuffelstage
 18-10-2021
 
-##opdracht
+## opdracht
 In de github zit een tsv die als volgt is opgedeeld:
 De header in de linker tab (genusnaam:header_id)
 De sequentie in de rechter tab
