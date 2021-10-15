@@ -9,7 +9,7 @@ De sequentie in de rechter tab
 Maak van dit bestand als volgt een FASTA formatted file
 
 Vervolgens maak van dit FASTA bestand een MUltiple Sequence Alignement
-Hiervoor kun je een van de volgende tools gebruiken:
+Hiervoor kun je een van de volgende tools gebruiken (andere mogen ook):
 MAFFT 
 MUSCLE
 CLUSTAL
